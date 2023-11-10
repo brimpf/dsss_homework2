@@ -47,6 +47,7 @@ def math_quiz():
     checks the user answers and calculates a score accordingly
     :return:
     """
+
     score = 0  # score starts at 0 and can be a maximum equal to number_of_questions
     number_of_questions = 3  # the number of questions asked in the quiz
 
