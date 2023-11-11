@@ -16,7 +16,7 @@ class TestMathGame(unittest.TestCase):
         # Test if random operators are either '+', '-', '*'
         for _ in range(50):  # Tests the randomization a number of times
             rand_operator = rand_op()
-            self.assertIn(rand_operator, ['+', '-', '*'], f"0perator was {rand_operator}")
+            self.assertIn(rand_operator, ['+', '-', '*'], f"Operator was {rand_operator}")
 
     def test_calculate(self):
         test_cases = [
