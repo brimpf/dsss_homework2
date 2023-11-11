@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfec7c84-4c61-485c-87ec-6ba3944ca011" name="Changes" comment="setup didnt works">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" afterDir="false" />
-    </list>
+    <list default="true" id="dfec7c84-4c61-485c-87ec-6ba3944ca011" name="Changes" comment="setup didnt works" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Setup Script" />
       </list>
     </option>
   </component>
